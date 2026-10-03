@@ -38,7 +38,7 @@ const PRODUCTS_DB = [
         images: [
             "images/monitor.jpg"
         ],
-        description: "Ultra-wide 27-inch gaming monitor with 144Hz refresh rate, 1ms response time, and HDR support for immersive gaming experience.",
+        description: "27-inch gaming monitor with 144Hz refresh rate and 1ms response time. Games look smooth, no lag.",
         features: [
             "144Hz refresh rate",
             "1ms response time",
@@ -88,7 +88,7 @@ const PRODUCTS_DB = [
         images: [
             "images/wireless-charger.jpg"
         ],
-        description: "WiFi security camera for home. Records in HD, works at night, and sends alerts straight to your phone.",
+        description: "Wireless charging pad - just place your phone on it and it starts charging. LED light shows it is working.",
         features: [
             "Fast wireless charging",
             "Universal Qi compatibility",
@@ -113,7 +113,7 @@ const PRODUCTS_DB = [
         images: [
             "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEtgg3Pkj2JzZLF6yGx4BvqH-eUylZyL3HhA&s"
         ],
-        description: "WiFi-enabled security camera with 1080p HD recording, night vision, and smartphone app control.",
+        description: "WiFi security camera for home. Records in HD, works at night, and sends alerts straight to your phone.",
         features: [
             "1080p HD recording",
             "Night vision capability",
