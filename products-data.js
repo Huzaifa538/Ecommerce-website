@@ -13,7 +13,7 @@ const PRODUCTS_DB = [
         images: [
             "images/headphones.jpg"
         ],
-        description: "Experience superior sound quality with these premium wireless headphones featuring noise cancellation, 30-hour battery life, and premium comfort padding.",
+        description: "Wireless headphones with good sound and noise cancellation. Battery lasts 30 hours and they stay comfortable even after long use.",
         features: [
             "Active Noise Cancellation",
             "30-hour battery life",
@@ -63,7 +63,7 @@ const PRODUCTS_DB = [
         images: [
             "images/laptop-stand.jpg"
         ],
-        description: "Ergonomic aluminum laptop stand with adjustable height and angle for improved posture and cooling.",
+        description: "Aluminum laptop stand. Adjust the height and angle the way you like. Keeps your laptop cool and your neck happy.",
         features: [
             "Adjustable height and angle",
             "Premium aluminum construction",
@@ -88,7 +88,7 @@ const PRODUCTS_DB = [
         images: [
             "images/wireless-charger.jpg"
         ],
-        description: "Fast wireless charging pad with LED indicator and universal compatibility for all Qi-enabled devices.",
+        description: "WiFi security camera for home. Records in HD, works at night, and sends alerts straight to your phone.",
         features: [
             "Fast wireless charging",
             "Universal Qi compatibility",
@@ -138,7 +138,7 @@ const PRODUCTS_DB = [
         images: [
             "images/keyboard.jpg"
         ],
-        description: "Premium mechanical keyboard with RGB backlighting, wireless connectivity, and tactile switches.",
+        description: "Mechanical keyboard with RGB lights. Use it wireless or with the USB cable. Keys feel solid when you type.",
         features: [
             "Mechanical tactile switches",
             "RGB backlighting",
@@ -163,7 +163,7 @@ const PRODUCTS_DB = [
         images: [
             "images/powerbank.jpg"
         ],
-        description: "High-capacity portable power bank with fast charging and multiple USB ports for all your devices.",
+        description: "20000mAh power bank - charges your phone multiple times on one fill. Fast charging with USB ports.",
         features: [
             "20000mAh capacity",
             "Fast charging technology",
@@ -188,7 +188,7 @@ const PRODUCTS_DB = [
         images: [
             "images/smartwatch.jpg"
         ],
-        description: "Advanced fitness tracker with heart rate monitoring, GPS, and smartphone notifications.",
+        description: "Fitness tracker watch with heart rate monitor and GPS. Shows your phone notifications, and it is water resistant.",
         features: [
             "Heart rate monitoring",
             "Built-in GPS",
@@ -215,7 +215,7 @@ const PRODUCTS_DB = [
         images: [
             "images/handbag.jpg"
         ],
-        description: "Elegant leather handbag crafted from premium materials with spacious interior and adjustable strap.",
+        description: "Leather handbag with lots of space inside. Adjustable strap, looks classy with any outfit.",
         features: [
             "Premium leather construction",
             "Spacious main compartment",
@@ -240,7 +240,7 @@ const PRODUCTS_DB = [
         images: [
             "images/denim-jacket.jpg"
         ],
-        description: "Timeless denim jacket with classic cut and premium denim fabric for versatile styling.",
+        description: "Classic denim jacket made from good quality denim. Comfortable fit, goes with almost everything.",
         features: [
             "100% premium denim",
             "Classic button closure",
@@ -265,7 +265,7 @@ const PRODUCTS_DB = [
         images: [
             "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQ-yC1qLGzoDur8rGOZ8r2LyOneHGIIoXJ0A&s"
         ],
-        description: "Sophisticated evening dress perfect for special occasions with flowing silhouette and premium fabric.",
+        description: "Elegant evening dress for special occasions. Flowing design, looks graceful.",
         features: [
             "Premium fabric blend",
             "Flowing A-line silhouette",
@@ -290,7 +290,7 @@ const PRODUCTS_DB = [
         images: [
             "images/running-shoes.jpg"
         ],
-        description: "High-performance running shoes with advanced cushioning and breathable mesh upper for maximum comfort.",
+        description: "Comfortable running shoes with good cushioning. Lightweight and breathable - easy on your feet.",
         features: [
             "Advanced cushioning system",
             "Breathable mesh upper",
@@ -315,7 +315,7 @@ const PRODUCTS_DB = [
         images: [
             "images/winter-coat.jpg"
         ],
-        description: "Warm and stylish winter coat with water-resistant fabric and cozy lining for cold weather protection.",
+        description: "Warm winter coat that resists water. Has a hood and pockets, keeps you cozy in cold weather.",
         features: [
             "Water-resistant fabric",
             "Insulated lining",
@@ -340,7 +340,7 @@ const PRODUCTS_DB = [
         images: [
             "images/wool-scarf.jpg"
         ],
-        description: "Luxurious wool scarf with soft texture and versatile design perfect for any season styling.",
+        description: "Soft wool scarf. Warm, comfortable, and matches with any winter outfit.",
         features: [
             "100% premium wool",
             "Soft and comfortable",
@@ -367,7 +367,7 @@ const PRODUCTS_DB = [
         images: [
             "images/coffee-maker.jpg"
         ],
-        description: "WiFi-enabled smart coffee maker with programmable brewing, smartphone app control, and premium features.",
+        description: "Smart coffee maker you control from your phone. Set the timer and wake up to fresh coffee.",
         features: [
             "WiFi connectivity",
             "Smartphone app control",
@@ -392,7 +392,7 @@ const PRODUCTS_DB = [
         images: [
             "images/blender.jpg"
         ],
-        description: "High-performance blender with powerful motor and multiple speed settings for all your blending needs.",
+        description: "Powerful blender with multiple speed settings. Makes smoothies, juices, shakes - handles it all.",
         features: [
             "Powerful 1200W motor",
             "Multiple speed settings",
@@ -417,7 +417,7 @@ const PRODUCTS_DB = [
         images: [
             "https://www.winstore.pk/cdn/shop/products/5q7poY5WRm_2048x.jpg?v=1647868044"
         ],
-        description: "Advanced digital air fryer with multiple cooking presets and healthier cooking with little to no oil.",
+        description: "Digital air fryer that cooks crispy food with less oil. Simple controls, easy to clean.",
         features: [
             "Digital touch controls",
             "Multiple cooking presets",
@@ -442,7 +442,7 @@ const PRODUCTS_DB = [
         images: [
             "images/kitchen-appliance.jpg"
         ],
-        description: "Versatile rice cooker with multiple cooking functions including steaming, slow cooking, and warming.",
+        description: "Rice cooker that also steams and slow cooks. Non-stick pot, keeps food warm after cooking.",
         features: [
             "Multiple cooking functions",
             "10-cup capacity",
@@ -469,7 +469,7 @@ const PRODUCTS_DB = [
         images: [
             "images/book1.jpg"
         ],
-        description: "Comprehensive collection of timeless classic literature featuring beautiful hardcover editions and gold embossing.",
+        description: "Set of classic books in hardcover. Looks great on the shelf, great to read too.",
         features: [
             "Hardcover editions",
             "Gold embossed covers",
@@ -494,7 +494,7 @@ const PRODUCTS_DB = [
         images: [
             "images/book2.jpg"
         ],
-        description: "Stunning photography book showcasing contemporary art and modern visual aesthetics with high-quality prints.",
+        description: "Big photography book full of modern art photos. High quality prints.",
         features: [
             "High-quality photo prints",
             "Contemporary art focus",
@@ -519,7 +519,7 @@ const PRODUCTS_DB = [
         images: [
             "images/book3.jpg"
         ],
-        description: "Comprehensive science encyclopedia with detailed illustrations and up-to-date scientific information for all ages.",
+        description: "Science encyclopedia with pictures and clear explanations. Good for students.",
         features: [
             "Comprehensive coverage",
             "Detailed illustrations",
@@ -544,7 +544,7 @@ const PRODUCTS_DB = [
         images: [
             "images/cookbook.jpg"
         ],
-        description: "Professional cookbook collection featuring international cuisine recipes with step-by-step instructions and beautiful food photography.",
+        description: "Cookbook with recipes from around the world. Step-by-step instructions with photos.",
         features: [
             "International cuisine recipes",
             "Step-by-step instructions",
